@@ -1,0 +1,14 @@
+.blogMain_heading{
+    color: var(--white);
+    margin-bottom: 1rem;
+    font-size: 3rem;
+}
+
+.blogCard{
+    height: 65vh;
+}
+
+.blog-img{
+    width: 100%;
+    height: 50%;
+}

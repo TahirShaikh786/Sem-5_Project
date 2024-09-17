@@ -1,0 +1,18 @@
+.sideBar{
+    font-size: 1.5rem;
+    color: var(--white);
+    text-decoration: underline;
+}
+
+.panelHeading{
+    font-size: 2rem;
+    color: var(--white);
+    font-style: italic;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+.panelHeading span{
+    color: aqua;
+    text-decoration: underline;
+}

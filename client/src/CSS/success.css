@@ -1,0 +1,50 @@
+.dark{
+    width: 100%;
+    height: 100vh;
+}
+
+.Paymentheading h1{
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: 700;
+    color: lightgreen;
+    text-decoration: underline;
+}
+
+.Paymentheading p{
+    color: var(--white);
+    text-align: center;
+    font-size: 1.3rem;
+    margin: 1rem;
+}
+
+.paymentData{
+    color: var(--white);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1rem;
+    padding: 1rem;
+    background-color: var(--black);
+}
+
+.paymentData h2{
+    text-align: center;
+    color: var(--white);
+    font-size: 2rem;
+}
+
+.paymentData p{
+    font-size: 1.1rem;
+}
+
+.paymentData span{
+    text-decoration: underline;
+}
+
+.status{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: darkgreen;
+}
